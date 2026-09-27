@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Compiled output
+*.o
+*.out
+*.exe
+*.dSYM/
+a.out
+
+*.swp
