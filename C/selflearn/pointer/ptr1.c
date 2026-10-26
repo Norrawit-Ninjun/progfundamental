@@ -18,4 +18,5 @@ int main()
     //printf("%p\n" , pointerpoint);
     printf("%p\n" ,  pointerletter);
     printf("%c\n" , *pointerletter);
+    
 }
