@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-#define N 2
+#define N 10
 
 int main()
 {
@@ -28,9 +28,9 @@ int main()
         char playpause;
         printf("Y / N\n");
         scanf(" %c" , &playpause);
-            if(playpause == 'y'){
+            if(playpause == 'y' || playpause == 'Y'){
                 continue;
-            }if(playpause == 'n'){
+            }if(playpause == 'n' || playpause == 'N'){
                 return 0;
             }else{
                 return 0;
