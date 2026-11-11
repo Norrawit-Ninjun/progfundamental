@@ -1,0 +1,7 @@
+********SELECTED PRODUCT SUMMARY********
+Product in stock number 2
+Product name product2
+Product Price 234.00
+Product Remain 22
+All Product sell price 5148.00
+****************************************
